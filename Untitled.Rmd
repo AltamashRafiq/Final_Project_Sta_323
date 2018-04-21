@@ -1,0 +1,275 @@
+---
+title: "College Search Prototype"
+author: "Altamash Rafiq"
+date: "05/04/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r message = FALSE}
+library(rvest)
+library(dplyr)
+library(stringr)
+library(glue)
+library(httr)
+library(purrr)
+```
+
+# Notable schools for financial aid.
+
+```{r}
+url = "http://thecollegematchmaker.com/65-colleges-give-generous-aid-international-students/"
+page = read_html(url)
+
+college_name = page %>%
+  html_nodes("strong a") %>%
+  html_text()
+
+colleges = data_frame(college_name)
+
+nums = c(26, 75, 118, 73, 530, 350, 409, 374, 251, 146, 196, 84, 111, 46, 207, 157, 26, 165, 82, 114, 52, 70, 57, 153, NA, 133, 159, 157, 66, 87, NA, 592, 58, NA, 103, 110, 222, 129, 448, 146, 149, 45, NA, 80, 168, 164, 39, 155, NA, 187, 56, 146, 82, 332, 128, 328, 221, 92, 53, 114, 83, 103, 80, 350, 133)
+
+colleges = colleges %>%
+  mutate(students = nums)
+
+fixes = c("Colgate College", "Colorado College", "Franklin and Marshall College", "St. John’s College – Annapolis", "Wheaton College (MA)", "Yeshiva University")
+
+colleges[colleges$college_name %in% fixes,]$college_name = c("Colgate University", "Colorado College", "Franklin & Marshall College", "St. John's College", "Wheaton College", "Yeshiva University")
+```
+
+# Expected financial aid per college.
+
+```{r}
+url = "https://lendedu.com/blog/international-students-financial-aid-study"
+page = read_html(url)
+
+finaid = page %>%
+  html_nodes("td+ td") %>%
+  html_text()
+
+names = finaid[seq_along(finaid) %% 2 != 0]
+aids = finaid[seq_along(finaid) %% 2 == 0] %>% 
+  str_trim() %>%
+  str_replace("\\$", "") %>%
+  str_replace(",", "") %>%
+  as.numeric()
+
+aid_df = data_frame(names)
+aid_df$aid = aids
+names(aid_df) = c("college_name", "aid")
+aid_df = aid_df %>%
+  arrange(college_name)
+
+colleges = full_join(colleges, aid_df, by = "college_name")
+```
+
+# US-News College Rankings
+
+```{r}
+rankings_getter_national = function(n){
+  datalist = list()
+  for(num in 1:n){
+    outer_url = glue("https://www.usnews.com/best-colleges/rankings/national-universities?_page={num}")
+    outer_page = read_html(outer_url)
+    
+    college_name = outer_page %>%
+      html_nodes(".block-tighter a") %>%
+      html_text() %>%
+      head(10)
+    national_rank = outer_page %>%
+      html_nodes(".text-strong div") %>%
+      html_text() %>%
+      str_trim() %>%
+      str_extract("\\d+") %>%
+      as.numeric()
+    link = outer_page %>%
+      html_nodes(".block-tighter a") %>%
+      html_attr("href") %>%
+      head(10)
+    
+    datalist[[num]] = data_frame(college_name, national_rank, link)
+  }
+  combined_data = do.call(rbind, datalist)
+  return(combined_data)
+}
+
+rankings_getter_liberal = function(n){
+  datalist = list()
+  for(num in 1:n){
+    outer_url = glue("https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges?_page={num}")
+    outer_page = read_html(outer_url)
+    
+    college_name = outer_page %>%
+      html_nodes(".block-tighter a") %>%
+      html_text() %>%
+      head(10)
+    liberal_rank = outer_page %>%
+      html_nodes(".text-strong div") %>%
+      html_text() %>%
+      str_trim() %>%
+      str_extract("\\d+") %>%
+      as.numeric()
+    link = outer_page %>%
+      html_nodes(".block-tighter a") %>%
+      html_attr("href") %>%
+      head(10)
+    
+    datalist[[num]] = data_frame(college_name, liberal_rank, link)
+  }
+  combined_data = do.call(rbind, datalist)
+  return(combined_data)
+}
+
+rankings_national = rankings_getter_national(23)
+rankings_liberal = rankings_getter_liberal(20)
+```
+
+```{r, message = FALSE}
+rankings = full_join(rankings_national, rankings_liberal, by = c("college_name", "link"))
+colleges = left_join(colleges, rankings, by = "college_name")
+colleges = colleges[is.na(colleges$link) == FALSE,]
+colleges$combined_rank = rowSums(colleges[,c("national_rank", "liberal_rank")], na.rm=TRUE)
+colleges = colleges %>%
+  arrange(combined_rank, college_name) %>%
+  select(college_name, combined_rank, national_rank, liberal_rank, students, aid, link)
+```
+
+```{r}
+num = c(1000, 1050, 1100, 1150, 1200, 1250, 1300, 1350, 1400, 1450, 1500, 1550, 1600)
+
+sat_scores_getter = function(num){
+  datalist = list()
+  for(n in seq_along(num)){
+    base_url = glue("http://www.collegesimply.com/guides/{num[n]}-on-the-sat/?view=all")
+    page = read_html(base_url)
+    
+    scores_data = page %>%
+      html_nodes("td:nth-child(1) a , td:nth-child(2) , td:nth-child(3)") %>%
+      html_text()
+    
+    iterations = seq(1, 2800, by = 3)
+    output = matrix(ncol = 3, nrow = length(iterations))
+    
+    for(i in seq_along(iterations)){
+      output[i,] = c(scores_data[iterations[i]],
+                     scores_data[iterations[i] + 1], 
+                     scores_data[iterations[i] + 2])
+    }
+    datalist[[n]] = as.data.frame(output, stringsAsFactors = FALSE)
+  }
+  combined_data = do.call(rbind, datalist)
+  return(combined_data)
+}
+
+sat_data = sat_scores_getter(num)
+sat_data = sat_data %>%
+  distinct() %>%
+  arrange(V1)
+names(sat_data) = c("college_name", "sat_lower_quartile", "sat_upper_quartile")
+sat_data = sat_data[-nrow(sat_data),]
+```
+
+```{r}
+num = c(20, 22, 24, 26, 28, 30, 32, 34, 36)
+
+act_scores_getter = function(num){
+  datalist = list()
+  for(n in seq_along(num)){
+    base_url = glue("http://www.collegesimply.com/guides/{num[n]}-on-the-act/?view=all")
+    page = read_html(base_url)
+    
+    scores_data = page %>%
+      html_nodes("td:nth-child(1) a , td:nth-child(2) , td:nth-child(3)") %>%
+      html_text()
+    
+    iterations = seq(1, 2800, by = 3)
+    output = matrix(ncol = 3, nrow = length(iterations))
+    
+    for(i in seq_along(iterations)){
+      output[i,] = c(scores_data[iterations[i]],
+                     scores_data[iterations[i] + 1], 
+                     scores_data[iterations[i] + 2])
+    }
+    datalist[[n]] = as.data.frame(output, stringsAsFactors = FALSE)
+  }
+  combined_data = do.call(rbind, datalist)
+  return(combined_data)
+}
+
+act_data = act_scores_getter(num)
+act_data = act_data %>%
+  distinct() %>%
+  arrange(V1)
+names(act_data) = c("college_name", "act_lower_quartile", "act_upper_quartile")
+act_data = act_data[-nrow(act_data),]
+```
+
+```{r}
+scores_data = merge(act_data, sat_data, by = "college_name")
+colleges = left_join(colleges, scores_data, by = "college_name")
+```
+
+```{r}
+acceptance_rate_getter_1 = function(){
+  base_url = glue("http://www.collegesimply.com/guides/low-acceptance-rate/?view=all")
+  page = read_html(base_url)
+  
+  acceptance_data = page %>%
+    html_nodes("td:nth-child(3) , td:nth-child(2) a") %>%
+    html_text()
+  
+  iterations = seq(1, 300, by = 2)
+  output = matrix(ncol = 2, nrow = length(iterations))
+  
+  for(i in seq_along(iterations)){
+    output[i,] = c(acceptance_data[iterations[i]],
+                   acceptance_data[iterations[i] + 1])
+  }
+  output = output %>%
+    as.data.frame() %>%
+    map_dfc(as.character)
+  return(output)
+}
+
+acceptance_rates_1 = acceptance_rate_getter_1() %>%
+  distinct() %>%
+  arrange(V1)
+
+names(acceptance_rates_1) = c("college_name", "acceptance_rate")
+```
+
+```{r}
+acceptance_rate_getter_2 = function(){
+  base_url = glue("http://www.collegesimply.com/guides/high-acceptance-rate/?view=all")
+  page = read_html(base_url)
+  
+  acceptance_data = page %>%
+    html_nodes("td:nth-child(3) , td:nth-child(2) a") %>%
+    html_text()
+  
+  iterations = seq(1, 2400, by = 2)
+  output = matrix(ncol = 2, nrow = length(iterations))
+  
+  for(i in seq_along(iterations)){
+    output[i,] = c(acceptance_data[iterations[i]],
+                   acceptance_data[iterations[i] + 1])
+  }
+  output = output %>%
+    as.data.frame() %>%
+    map_dfc(as.character)
+  return(output)
+}
+
+acceptance_rates_2 = acceptance_rate_getter_2() %>%
+  distinct() %>%
+  arrange(V1)
+
+names(acceptance_rates_2) = c("college_name", "acceptance_rate")
+```
+
+```{r}
+acceptance_rates = rbind(acceptance_rates_1, acceptance_rates_2)
+```
