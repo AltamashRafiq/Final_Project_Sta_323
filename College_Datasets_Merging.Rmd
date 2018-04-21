@@ -1,0 +1,65 @@
+---
+title: "College Search First Attempt"
+author: "Altamash Rafiq"
+date: "10/04/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r message = FALSE}
+library(rvest)
+library(dplyr)
+library(stringr)
+library(glue)
+library(httr)
+```
+
+```{r}
+colleges = read.csv("prototype_finished.csv", header = TRUE, stringsAsFactors = FALSE)
+acceptance_rates = read.csv("acceptance_rates.csv", header = TRUE, stringsAsFactors = FALSE)
+acceptance_rates = acceptance_rates %>%
+  select(college_name, acceptance_rate)
+```
+
+```{r}
+colleges = colleges %>%
+  filter(college_finaid_link != "NO FLAG" & college_finaid_link != "???" & college_finaid_link != "")
+colleges$total_amount_awarded = colleges %>%
+  pull(total_amount_awarded) %>%
+  str_replace(",", "") %>%
+  str_replace(",", "") %>%
+  str_replace("\\$", "") %>%
+  str_trim() %>%
+  as.numeric()
+colleges = colleges %>%
+  mutate(aid = total_amount_awarded/students)
+colleges$aid[is.na(colleges$aid)] = colleges$aid_2015[is.na(colleges$aid)]
+```
+
+```{r}
+colleges = left_join(colleges, acceptance_rates, by = "college_name")
+```
+
+```{r}
+test = colleges %>%
+  select(-students, -total_amount_awarded, -aid)
+```
+
+```{r}
+students_aid = read.csv("students_aid.csv", header = TRUE, stringsAsFactors = FALSE)[,-1]
+students_aid$total_aid = students_aid %>%
+  pull(total_aid) %>%
+  str_replace(",", "") %>%
+  str_replace(",", "") %>%
+  str_replace("\\$", "") %>%
+  str_trim() %>%
+  as.numeric()
+
+test = left_join(test, students_aid, by = "college_name")
+test = test %>%
+  mutate(unit_aid = total_aid/students) %>%
+  arrange(generosity_index, combined_rank)
+```
