@@ -1,0 +1,281 @@
+ID,college_name,combined_rank,national_rank,liberal_rank,students,aid,usnews_link,bigfuture_link,college_website,Total_Amount_Awarded,Engineering
+1,Princeton University,1,1,NA,433,44466,/best-colleges/princeton-university-2627,https://bigfuture.collegeboard.org/college-university-search/princeton-university,www.princeton.edu,"$21,180,000 ",NA
+2,Williams College,1,NA,1,92,55119,/best-colleges/williams-college-2229,https://bigfuture.collegeboard.org/college-university-search/williams-college,www.williams.edu,"$5,784,344 ",NA
+3,Amherst College,2,NA,2,147,55673,/best-colleges/amherst-college-2115,https://bigfuture.collegeboard.org/college-university-search/amherst-college,www.amherst.edu,"$9,117,196 ",NA
+4,Harvard University,2,2,NA,592,53409,/best-colleges/harvard-university-2155,https://bigfuture.collegeboard.org/college-university-search/harvard-college,www.college.harvard.edu,"$35,845,904 ",NA
+5,Bowdoin College,3,NA,3,41,43035,/best-colleges/bowdoin-college-2038,https://bigfuture.collegeboard.org/college-university-search/bowdoin-college,www.bowdoin.edu,"$2,010,562 ",NA
+6,Swarthmore College,3,NA,3,56,48146,/best-colleges/swarthmore-college-3370,https://bigfuture.collegeboard.org/college-university-search/swarthmore-college,www.swarthmore.edu,NA,NA
+7,Wellesley College,3,NA,3,90,50937,/best-colleges/wellesley-college-2224,https://bigfuture.collegeboard.org/college-university-search/wellesley-college,www.wellesley.edu,"$5,223,268 ",NA
+8,Yale University,3,3,NA,350,55862,/best-colleges/yale-university-1426,https://bigfuture.collegeboard.org/college-university-search/yale-university,www.yale.edu,NA,NA
+9,Columbia University,5,5,NA,NA,53972,/best-colleges/columbia-university-2707,https://bigfuture.collegeboard.org/college-university-search/columbia-university,www.columbia.edu,NA,NA
+10,Massachusetts Institute of Technology,5,5,NA,342,44403,/best-colleges/mit-2178,https://bigfuture.collegeboard.org/college-university-search/massachusetts-institute-of-technology,web.mit.edu,"$17,690,728 ",NA
+11,Stanford University,5,5,NA,188,54194,/best-colleges/stanford-1305,https://bigfuture.collegeboard.org/college-university-search/stanford-university,www.stanford.edu,"$11,461,928 ",NA
+12,Middlebury College,6,NA,6,138,50530,/best-colleges/middlebury-college-3691,https://bigfuture.collegeboard.org/college-university-search/middlebury-college,www.middlebury.edu,"$8,000,390 ",NA
+13,Pomona College,6,NA,6,80,45738,/best-colleges/pomona-college-1173,https://bigfuture.collegeboard.org/college-university-search/pomona-college,www.pomona.edu,"$4,401,760 ",NA
+14,Carleton College,8,NA,8,67,36185,/best-colleges/carleton-college-2340,https://bigfuture.collegeboard.org/college-university-search/carleton-college,www.carleton.edu,"$2,965,263 ",NA
+15,Claremont McKenna College,8,NA,8,25,21941,/best-colleges/claremont-mckenna-college-1170,https://bigfuture.collegeboard.org/college-university-search/claremont-mc-kenna-college,www.cmc.edu,"$1,224,493 ",NA
+16,University of Pennsylvania,8,8,NA,332,44824,/best-colleges/university-of-pennsylvania-3378,https://bigfuture.collegeboard.org/college-university-search/university-of-pennsylvania,www.upenn.edu,NA,NA
+17,Duke University,9,9,NA,NA,53334,/best-colleges/duke-university-2920,https://bigfuture.collegeboard.org/college-university-search/duke-university,www.duke.edu,NA,NA
+18,California Institute of Technology,10,10,NA,33,51460,/best-colleges/cal-tech-1131,https://bigfuture.collegeboard.org/college-university-search/california-institute-of-technology,www.caltech.edu,"$1,710,292 ",NA
+19,Davidson College,10,NA,10,60,39788,/best-colleges/davidson-college-2918,https://bigfuture.collegeboard.org/college-university-search/davidson-college,www.davidson.edu,"$2,943,421 ",NA
+20,Washington and Lee University,10,NA,10,59,52278,/best-colleges/washington-and-lee-3768,https://bigfuture.collegeboard.org/college-university-search/washington-and-lee-university,www.wlu.edu,"$3,299,644 ",NA
+21,Dartmouth College,11,11,NA,257,53291,/best-colleges/dartmouth-college-2573,https://bigfuture.collegeboard.org/college-university-search/dartmouth-college,www.dartmouth.edu,"$15,367,803 ",NA
+22,Johns Hopkins University,11,11,NA,NA,38518,/best-colleges/jhu-2077,https://bigfuture.collegeboard.org/college-university-search/johns-hopkins-university,www.jhu.edu,NA,NA
+23,Northwestern University,11,11,NA,105,42259,/best-colleges/northwestern-1739,https://bigfuture.collegeboard.org/college-university-search/northwestern-university,www.northwestern.edu,"$5,797,966 ",NA
+24,Colby College,12,NA,12,82,51794,/best-colleges/colby-college-2039,https://bigfuture.collegeboard.org/college-university-search/colby-college,www.colby.edu,"$4,191,443 ",NA
+25,Colgate University,12,NA,12,114,50281,/best-colleges/colgate-university-2701,https://bigfuture.collegeboard.org/college-university-search/colgate-university,www.colgate.edu,NA,NA
+26,Harvey Mudd College,12,NA,12,29,21556,/best-colleges/harvey-mudd-college-1171,https://bigfuture.collegeboard.org/college-university-search/harvey-mudd-college,www.hmc.edu,"$793,499 ",NA
+27,Smith College,12,NA,12,154,48613,/best-colleges/smith-college-2209,https://bigfuture.collegeboard.org/college-university-search/smith-college,www.smith.edu,"$8,642,029 ",NA
+28,Vassar College,12,NA,12,92,48916,/best-colleges/vassar-college-2895,https://bigfuture.collegeboard.org/college-university-search/vassar-college,www.vassar.edu,NA,NA
+29,Brown University,14,14,NA,207,44925,/best-colleges/brown-university-3401,https://bigfuture.collegeboard.org/college-university-search/brown-university,www.brown.edu,NA,NA
+30,Cornell University,14,14,NA,189,52332,/best-colleges/cornell-university-2711,https://bigfuture.collegeboard.org/college-university-search/cornell-university,www.cornell.edu,"$11,221,657 ",NA
+31,Rice University,14,14,NA,113,25782,/best-colleges/rice-3604,https://bigfuture.collegeboard.org/college-university-search/rice-university,www.rice.edu,"$3,758,455 ",NA
+32,Vanderbilt University,14,14,NA,140,46781,/best-colleges/vanderbilt-3535,https://bigfuture.collegeboard.org/college-university-search/vanderbilt-university,www.vanderbilt.edu,"$7,600,818 ",NA
+33,Grinnell College,18,NA,18,207,38267,/best-colleges/grinnell-college-1868,https://bigfuture.collegeboard.org/college-university-search/grinnell-college,www.grinnell.edu,"$7,733,905 ",NA
+34,Hamilton College,18,NA,18,62,49582,/best-colleges/hamilton-college-2728,https://bigfuture.collegeboard.org/college-university-search/hamilton-college,www.hamilton.edu,"$3,249,473 ",NA
+35,Haverford College,18,NA,18,25,56367,/best-colleges/haverford-college-3274,https://bigfuture.collegeboard.org/college-university-search/haverford-college,www.haverford.edu,"$1,537,662 ",NA
+36,University of Notre Dame,18,18,NA,231,36392,/best-colleges/notre-dame-1840,https://bigfuture.collegeboard.org/college-university-search/university-of-notre-dame,www.nd.edu,"$11,138,918 ",NA
+37,Washington University in St. Louis,18,18,NA,NA,31719,/best-colleges/washington-university-st-louis-2520,https://bigfuture.collegeboard.org/college-university-search/washington-university-in-st-louis,http://www.wustl.edu,NA,NA
+38,Georgetown University,20,20,NA,NA,54847,/best-colleges/georgetown-university-1445,https://bigfuture.collegeboard.org/college-university-search/georgetown-university,www.georgetown.edu,NA,NA
+39,Emory University,21,21,NA,NA,23236,/best-colleges/emory-university-1564,https://bigfuture.collegeboard.org/college-university-search/emory-university,www.emory.edu,NA,NA
+40,University of Southern California,21,21,NA,448,17744,/best-colleges/usc-1328,https://bigfuture.collegeboard.org/college-university-search/university-of-southern-california,www.usc.edu,"$8,687,611 ",NA
+41,Wesleyan University,21,NA,21,98,54996,/best-colleges/wesleyan-university-1424,https://bigfuture.collegeboard.org/college-university-search/wesleyan-university,www.wesleyan.edu,"$6,031,843 ",NA
+42,Bates College,23,NA,23,73,52700,/best-colleges/bates-college-2036,https://bigfuture.collegeboard.org/college-university-search/bates-college,www.bates.edu,"$4,092,499 ",NA
+43,Colorado College,23,NA,23,101,NA,/best-colleges/colorado-college-1347,https://bigfuture.collegeboard.org/college-university-search/colorado-college,www.coloradocollege.edu,"$4,633,340 ",NA
+44,University of Richmond,23,NA,23,136,44030,/best-colleges/university-of-richmond-3744,https://bigfuture.collegeboard.org/college-university-search/university-of-richmond,www.richmond.edu,"$6,310,182 ",NA
+45,Barnard College,26,NA,26,NA,48212,/best-colleges/barnard-college-2708,https://bigfuture.collegeboard.org/college-university-search/barnard-college,www.barnard.edu,NA,NA
+46,Kenyon College,26,NA,26,57,46391,/best-colleges/kenyon-college-3065,https://bigfuture.collegeboard.org/college-university-search/kenyon-college,www.kenyon.edu,"$3,055,197 ",NA
+47,Macalester College,26,NA,26,258,42377,/best-colleges/macalester-college-2358,https://bigfuture.collegeboard.org/college-university-search/macalester-college,www.macalester.edu,"$11,259,120 ",NA
+48,Oberlin College,26,NA,26,146,31132,/best-colleges/oberlin-college-3086,https://bigfuture.collegeboard.org/college-university-search/oberlin-college,www.oberlin.edu,NA,NA
+49,Scripps College,26,NA,26,NA,31043,/best-colleges/scripps-college-1174,https://bigfuture.collegeboard.org/college-university-search/scripps-college,www.scrippscollege.edu,NA,NA
+50,Tufts University,29,29,NA,161,49579,/best-colleges/tufts-university-2219,https://bigfuture.collegeboard.org/college-university-search/tufts-university,www.tufts.edu,"$8,852,636 ",NA
+51,New York University,30,30,NA,NA,29508,/best-colleges/nyu-2785,https://bigfuture.collegeboard.org/college-university-search/new-york-university,www.nyu.edu,NA,NA
+52,Bryn Mawr College,32,NA,32,157,43702,/best-colleges/bryn-mawr-college-3237,https://bigfuture.collegeboard.org/college-university-search/bryn-mawr-college,www.brynmawr.edu,NA,NA
+53,Bucknell University,33,NA,33,108,42372,/best-colleges/bucknell-university-3238,https://bigfuture.collegeboard.org/college-university-search/bucknell-university,www.bucknell.edu,"$4,734,178 ",NA
+54,College of the Holy Cross,33,NA,33,31,34367,/best-colleges/holy-cross-2141,https://bigfuture.collegeboard.org/college-university-search/college-of-the-holy-cross,www.holycross.edu,"$1,289,599 ",NA
+55,Pitzer College,33,NA,33,15,62164,/best-colleges/pitzer-college-1172,https://bigfuture.collegeboard.org/college-university-search/pitzer-college,www.pitzer.edu,"$883,125 ",NA
+56,Brandeis University,34,34,NA,71,38519,/best-colleges/brandeis-university-2133,https://bigfuture.collegeboard.org/college-university-search/brandeis-university,www.brandeis.edu,"$3,227,353 ",NA
+57,University of Rochester,34,34,NA,853,23314,/best-colleges/university-of-rochester-2894,https://bigfuture.collegeboard.org/college-university-search/university-of-rochester,www.rochester.edu,"$27,850,130 ",NA
+58,Lafayette College,36,NA,36,103,43119,/best-colleges/lafayette-college-3284,https://bigfuture.collegeboard.org/college-university-search/lafayette-college,www.lafayette.edu,NA,NA
+59,Mount Holyoke College,36,NA,36,322,32785,/best-colleges/mount-holyoke-college-2192,https://bigfuture.collegeboard.org/college-university-search/mount-holyoke-college,www.mtholyoke.edu,"$10,503,674 ",NA
+60,Union College,36,NA,36,82,59688,/best-colleges/union-college-new-york-2889,https://bigfuture.collegeboard.org/college-university-search/union-college,www.ucollege.edu,NA,NA
+61,Boston University,37,37,NA,199,36904,/best-colleges/boston-university-2130,https://bigfuture.collegeboard.org/college-university-search/boston-university,www.bu.edu,"$6,957,076 ",NA
+62,Case Western Reserve University,37,37,NA,96,13245,/best-colleges/case-western-reserve-university-3024,https://bigfuture.collegeboard.org/college-university-search/case-western-reserve-university,www.case.edu,"$2,624,252 ",NA
+63,Soka University of America,39,NA,39,177,31901,/best-colleges/soka-university-of-america-38144,https://bigfuture.collegeboard.org/college-university-search/soka-university-of-america,www.soka.edu,"$7,551,177 ",NA
+64,Northeastern University,40,40,NA,NA,18740,/best-colleges/northeastern-university-2199,https://bigfuture.collegeboard.org/college-university-search/northeastern-university,www.northeastern.edu,NA,NA
+65,Tulane University,40,40,NA,NA,19965,/best-colleges/tulane-university-2029,https://bigfuture.collegeboard.org/college-university-search/tulane-university,www.tulane.edu,"$1,638,568 ",NA
+66,Skidmore College,41,NA,41,83,56600,/best-colleges/skidmore-college-2814,https://bigfuture.collegeboard.org/college-university-search/skidmore-college,www.skidmore.edu,"$5,300,000 ",NA
+67,Whitman College,41,NA,41,56,40556,/best-colleges/whitman-college-3803,https://bigfuture.collegeboard.org/college-university-search/whitman-college,www.whitman.edu,"$2,422,343 ",NA
+68,Occidental College,44,NA,44,12,40525,/best-colleges/occidental-college-1249,https://bigfuture.collegeboard.org/college-university-search/occidental-college,www.oxy.edu,"$344,758 ",NA
+69,Trinity College,44,NA,44,146,54788,/best-colleges/trinity-college-1414,https://bigfuture.collegeboard.org/college-university-search/trinity-college,www.trincoll.edu,NA,NA
+70,Bard College,46,NA,46,73,44032,/best-colleges/bard-college-2671,https://bigfuture.collegeboard.org/college-university-search/bard-college,www.bard.edu,"$3,600,080 ",NA
+71,Centre College,46,NA,46,107,16410,/best-colleges/centre-college-1961,https://bigfuture.collegeboard.org/college-university-search/centre-college,www.centre.edu,"$2,104,360 ",NA
+72,Connecticut College,46,NA,46,81,47242,/best-colleges/connecticut-college-1379,https://bigfuture.collegeboard.org/college-university-search/connecticut-college,www.conncoll.edu,"$4,242,365 ",NA
+73,Denison University,46,NA,46,153,26417,/best-colleges/denison-university-3042,https://bigfuture.collegeboard.org/college-university-search/denison-university,www.denison.edu,NA,NA
+74,Gettysburg College,46,NA,46,128,27549,/best-colleges/gettysburg-college-3268,https://bigfuture.collegeboard.org/college-university-search/gettysburg-college,www.gettysburg.edu,"$3,942,974 ",NA
+75,Lehigh University,46,46,NA,90,35056,/best-colleges/lehigh-university-3289,https://bigfuture.collegeboard.org/college-university-search/lehigh-university,www.lehigh.edu,"$4,163,332 ",NA
+76,Pepperdine University,46,46,NA,149,23000,/best-colleges/pepperdine-university-1264,https://bigfuture.collegeboard.org/college-university-search/pepperdine-university,www.pepperdine.edu,"$3,024,429 ",NA
+77,University of Miami,46,46,NA,187,28775,/best-colleges/university-of-miami-1536,https://bigfuture.collegeboard.org/college-university-search/university-of-miami,www.miami.edu,"$7,659,362 ",NA
+78,Villanova University,46,46,NA,75,7019,/best-colleges/villanova-3388,https://bigfuture.collegeboard.org/college-university-search/villanova-university,www.villanova.edu,"$3,422,134 ",NA
+79,Dickinson College,51,NA,51,211,29073,/best-colleges/dickinson-college-3253,https://bigfuture.collegeboard.org/college-university-search/dickinson-college,www.dickinson.edu,"$7,672,109 ",NA
+80,Rhodes College,51,NA,51,68,20369,/best-colleges/rhodes-college-3519,https://bigfuture.collegeboard.org/college-university-search/rhodes-college,www.rhodes.edu,"$2,436,878 ",NA
+81,DePauw University,53,NA,53,NA,16347,/best-colleges/depauw-university-1792,https://bigfuture.collegeboard.org/college-university-search/de-pauw-university,www.depauw.edu,NA,NA
+82,Furman University,53,NA,53,82,31134,/best-colleges/furman-university-3434,https://bigfuture.collegeboard.org/college-university-search/furman-university,www.furman.edu,"Ê$2,958,150",NA
+83,Sarah Lawrence College,53,NA,53,218,34939,/best-colleges/sarah-lawrence-2813,https://bigfuture.collegeboard.org/college-university-search/sarah-lawrence-college,www.sarahlawrence.edu,"$4,993,058 ",NA
+84,St. John's College,53,NA,53,77,69360,/best-colleges/st-johns-college-maryland-2092,https://bigfuture.collegeboard.org/college-university-search/st-johns-college-annapolis,www.sjc.edu,"$2,892,758 ",NA
+85,University of Georgia,54,54,NA,NA,23194,/best-colleges/university-of-georgia-1598,https://bigfuture.collegeboard.org/college-university-search/university-of-georgia,www.uga.edu,NA,NA
+86,St. Olaf College,57,NA,57,249,38795,/best-colleges/st-olaf-college-2382,https://bigfuture.collegeboard.org/college-university-search/st-olaf-college,www.stolaf.edu,"$10,961,298 ",NA
+87,Lawrence University,58,NA,58,110,22341,/best-colleges/lawrence-university-3856,https://bigfuture.collegeboard.org/college-university-search/lawrence-university,www.lawrence.edu,NA,NA
+88,St. Lawrence University,58,NA,58,210,35260,/best-colleges/st-lawrence-university-2829,https://bigfuture.collegeboard.org/college-university-search/st-lawrence-university,www.stlawu.edu,"$7,566,483 ",NA
+89,Thomas Aquinas College,58,NA,58,10,18240,/best-colleges/thomas-aquinas-college-10448,https://bigfuture.collegeboard.org/college-university-search/thomas-aquinas-college,www.thomasaquinas.edu,"$170,116 ",NA
+90,Agnes Scott College,61,NA,61,NA,20093,/best-colleges/agnes-scott-college-1542,https://bigfuture.collegeboard.org/college-university-search/agnes-scott-college,www.agnesscott.edu,NA,NA
+91,Fordham University,61,61,NA,97,30638,/best-colleges/fordham-university-2722,https://bigfuture.collegeboard.org/college-university-search/fordham-university,www.fordham.edu,"$2,670,816 ",NA
+92,Southern Methodist University,61,61,NA,230,25576,/best-colleges/smu-3613,https://bigfuture.collegeboard.org/college-university-search/southern-methodist-university,www.smu.edu,"$6,278,097 ",NA
+93,Spelman College,61,NA,61,14,26327,/best-colleges/spelman-college-1594,https://bigfuture.collegeboard.org/college-university-search/spelman-college,www.spelman.edu,"$346,781 ",NA
+94,Syracuse University,61,61,NA,NA,12301,/best-colleges/syracuse-university-2882,https://bigfuture.collegeboard.org/college-university-search/syracuse-university,www.syracuse.edu,NA,NA
+95,Worcester Polytechnic Institute,61,61,NA,425,21833,/best-colleges/wpi-2233,https://bigfuture.collegeboard.org/college-university-search/worcester-polytechnic-institute,https://www.wpi.edu/,"$8,422,800 ",NA
+96,Wheaton College,63,NA,63,35,44549,/best-colleges/wheaton-college-illinois-1781,https://bigfuture.collegeboard.org/college-university-search/wheaton-college-1353,www.wheaton.edu,"$739,064 ",NA
+97,Hobart and William Smith Colleges,65,NA,65,114,23386,/best-colleges/hobart-and-william-2731,https://bigfuture.collegeboard.org/college-university-search/hobart-and-william-smith-colleges,www.hws.edu,"$2,634,337 ",NA
+98,Wabash College,65,NA,65,58,27827,/best-colleges/wabash-college-1844,https://bigfuture.collegeboard.org/college-university-search/wabash-college,www.wabash.edu,"$2,003,550 ",NA
+99,Berea College,68,NA,68,120,31737,/best-colleges/berea-college-1955,https://bigfuture.collegeboard.org/college-university-search/berea-college,www.berea.edu,"$4,966,609 ",NA
+100,Earlham College,68,NA,68,NA,40250,/best-colleges/earlham-college-1793,https://bigfuture.collegeboard.org/college-university-search/earlham-college,www.earlham.edu,NA,NA
+101,University of Puget Sound,68,NA,68,NA,11225,/best-colleges/university-of-puget-sound-3797,,,,NA
+102,Stevens Institute of Technology,69,69,NA,NA,4200,/best-colleges/stevens-institute-of-technology-2639,,,,NA
+103,Hillsdale College,71,NA,71,NA,22082,/best-colleges/hillsdale-college-2272,,,,NA
+104,Illinois Wesleyan University,71,NA,71,NA,21808,/best-colleges/illinois-wesleyan-university-1696,,,,NA
+105,Knox College,71,NA,71,NA,22647,/best-colleges/knox-college-1704,,,,NA
+106,Muhlenberg College,71,NA,71,NA,38150,/best-colleges/muhlenberg-college-3304,,,,NA
+107,Wofford College,71,NA,71,NA,26192,/best-colleges/wofford-college-3457,,,,NA
+108,Baylor University,75,75,NA,NA,13993,/best-colleges/baylor-university-6967,,,,NA
+109,Beloit College,76,NA,76,111,18879,/best-colleges/beloit-college-3835,,,,NA
+110,Hendrix College,76,NA,76,NA,25964,/best-colleges/hendrix-college-1099,,,,NA
+111,Kalamazoo College,76,NA,76,NA,23863,/best-colleges/kalamazoo-college-2275,,,,NA
+112,Lewis & Clark College,76,NA,76,NA,40261,/best-colleges/lewis-and-clark-3197,,,,NA
+113,St. John's College,76,NA,76,39,69360,/best-colleges/st-johns-college-new-mexico-2093,,,,NA
+114,Wheaton College,76,NA,76,103,44549,/best-colleges/wheaton-college-massachusetts-2227,,,,NA
+115,Texas Christian University,78,78,NA,NA,29552,/best-colleges/tcu-3636,,,,NA
+116,Clark University,81,81,NA,165,25328,/best-colleges/clark-university-massachusetts-2139,,,,NA
+117,Michigan State University,81,81,NA,NA,13696,/best-colleges/michigan-state-2290,,,,NA
+118,Allegheny College,82,NA,82,NA,18708,/best-colleges/allegheny-college-3230,,,,NA
+119,Reed College,82,NA,82,45,50705,/best-colleges/reed-college-3217,,,,NA
+120,Gustavus Adolphus College,85,NA,85,NA,25040,/best-colleges/gustavus-college-2353,,,,NA
+121,St. John's University,85,NA,85,NA,21401,/best-colleges/st-johns-university-minnesota-2379,,,,NA
+122,Bennington College,87,NA,87,46,44230,/best-colleges/bennington-college-3682,,,,NA
+123,Cornell College,87,NA,87,NA,22074,/best-colleges/cornell-college-1856,,,,NA
+124,Luther College,87,NA,87,NA,28681,/best-colleges/luther-college-1874,,,,NA
+125,Millsaps College,87,NA,87,NA,26155,/best-colleges/millsaps-college-2414,,,,NA
+126,Transylvania University,87,NA,87,NA,15772,/best-colleges/transylvania-university-1987,,,,NA
+127,University of Denver,87,87,NA,NA,19226,/best-colleges/university-denver-1371,,,,NA
+128,Marquette University,90,90,NA,NA,12236,/best-colleges/marquette-university-3863,,,,NA
+129,University of San Diego,90,90,NA,NA,12500,/best-colleges/university-of-san-diego-10395,,,,NA
+130,Austin College,93,NA,93,NA,14016,/best-colleges/austin-college-3543,,,,NA
+131,College of the Atlantic,93,NA,93,52,40534,/best-colleges/college-of-the-atlantic-11385,,,,NA
+132,Ursinus College,93,NA,93,NA,11249,/best-colleges/ursinus-3385,,,,NA
+133,Saint Louis University,94,94,NA,NA,20626,/best-colleges/st-louis-university-2506,,,,NA
+134,Yeshiva University,94,94,NA,133,NA,/best-colleges/yeshiva-university-2903,,,,NA
+135,Hampden-Sydney College,96,NA,96,NA,29537,/best-colleges/hampden-sydney-3713,,,,NA
+136,Southwestern University,96,NA,96,NA,20369,/best-colleges/southwestern-university-3620,,,,NA
+137,St. Mary's College of Maryland,96,NA,96,NA,7522,/best-colleges/st-marys-college-2095,,,,NA
+138,Washington College,96,NA,96,NA,17833,/best-colleges/washington-college-maryland-2108,,,,NA
+139,Rochester Institute of Technology,97,97,NA,NA,13000,/best-colleges/rit-2806,,,,NA
+140,University of Oklahoma,97,97,NA,NA,3132,/best-colleges/university-of-oklahoma-3184,,,,NA
+141,University of Vermont,97,97,NA,NA,18075,/best-colleges/university-of-vermont-3696,,,,NA
+142,Augustana College,101,NA,101,NA,37958,/best-colleges/augustana-college-1633,,,,NA
+143,New College of Florida,101,NA,101,NA,19609,/best-colleges/new-college-of-florida-153704,,,,NA
+144,Ohio Wesleyan University,101,NA,101,149,22333,/best-colleges/ohio-wesleyan-3109,,,,NA
+145,Illinois Institute of Technology,103,103,NA,592,20233,/best-colleges/iit-1691,,,,NA
+146,Loyola University Chicago,103,103,NA,NA,13102,/best-colleges/loyola-chicago-1710,,,,NA
+147,University of New Hampshire,103,103,NA,NA,28769,/best-colleges/university-of-new-hampshire-2589,,,,NA
+148,University of Oregon,103,103,NA,NA,8143,/best-colleges/university-of-oregon-3223,,,,NA
+149,University of South Carolina,103,103,NA,NA,7250,/best-colleges/university-of-south-carolina-3448,,,,NA
+150,Hope College,106,NA,106,NA,14154,/best-colleges/hope-college-2273,,,,NA
+151,Juniata College,106,NA,106,NA,17298,/best-colleges/juniata-college-3279,,,,NA
+152,Howard University,110,110,NA,NA,23954,/best-colleges/howard-university-1448,,,,NA
+153,University of San Francisco,110,110,NA,NA,29566,/best-colleges/university-san-francisco-1325,,,,NA
+154,University of Utah,110,110,NA,NA,5311,/best-colleges/university-of-utah-3675,,,,NA
+155,Drew University,112,NA,112,NA,15017,/best-colleges/drew-university-2603,,,,NA
+156,Goucher College,112,NA,112,NA,26444,/best-colleges/goucher-college-2073,,,,NA
+157,Hanover College,112,NA,112,NA,22632,/best-colleges/hanover-college-1801,,,,NA
+158,Hollins University,112,NA,112,NA,32388,/best-colleges/hollins-university-3715,,,,NA
+159,Principia College,112,NA,112,NA,31931,/best-colleges/principia-college-1744,,,,NA
+160,Temple University,115,115,NA,NA,5621,/best-colleges/temple-university-3371,,,,NA
+161,University of St. Thomas,115,115,NA,NA,37529,/best-colleges/university-of-st-thomas-minnesota-2345,,,,NA
+162,Elizabethtown College,117,NA,117,NA,24500,/best-colleges/elizabethtown-college-3262,,,,NA
+163,Linfield College,117,NA,117,NA,22502,/best-colleges/linfield-college-3198,,,,NA
+164,Marlboro College,117,NA,117,NA,30983,/best-colleges/marlboro-college-3690,,,,NA
+165,Ripon College,117,NA,117,NA,19978,/best-colleges/ripon-college-3884,,,,NA
+166,Duquesne University,120,120,NA,NA,19763,/best-colleges/duquesne-university-3258,,,,NA
+167,Birmingham-Southern College,123,NA,123,NA,19748,/best-colleges/birmingham-southern-1012,,,,NA
+168,Coe College,123,NA,123,NA,22112,/best-colleges/coe-college-1854,,,,NA
+169,Clarkson University,124,124,NA,NA,14073,/best-colleges/clarkson-university-2699,,,,NA
+170,Colorado State University,124,124,NA,NA,12846,/best-colleges/colorado-state-university-1350,,,,NA
+171,Michigan Technological University,124,124,NA,NA,7678,/best-colleges/michigan-tech-2292,,,,NA
+172,Seton Hall University,124,124,NA,NA,14279,/best-colleges/seton-hall-university-new-jersey-2632,,,,NA
+173,University of Dayton,124,124,NA,NA,10591,/best-colleges/university-of-dayton-3127,,,,NA
+174,Grove City College,126,NA,126,NA,6410,/best-colleges/grove-city-college-3269,,,,NA
+175,Albion College,128,NA,128,NA,17611,/best-colleges/albion-college-2235,,,,NA
+176,Central College,128,NA,128,NA,12367,/best-colleges/central-college-pella-1850,,,,NA
+177,Eckerd College,128,NA,128,NA,17861,/best-colleges/eckerd-college-1487,,,,NA
+178,Wartburg College,128,NA,128,NA,20391,/best-colleges/wartburg-college-1896,,,,NA
+179,Westminster College,128,NA,128,NA,38298,/best-colleges/westminster-college-pennsylvania-3392,,,,NA
+180,Whittier College,128,NA,128,NA,25062,/best-colleges/whittier-college-1342,,,,NA
+181,Hofstra University,132,132,NA,NA,24000,/best-colleges/hofstra-university-2732,,,,NA
+182,Mercer University,133,133,NA,NA,23472,/best-colleges/mercer-university-1580,,,,NA
+183,University of Arkansas,133,133,NA,NA,7234,/best-colleges/university-of-arkansas-1108,,,,NA
+184,University of Cincinnati,133,133,NA,NA,8324,/best-colleges/university-of-cincinnati-3125,,,,NA
+185,University of Kentucky,133,133,NA,NA,8990,/best-colleges/university-of-kentucky-1989,,,,NA
+186,McDaniel College,134,NA,134,NA,32707,/best-colleges/mcdaniel-college-2109,,,,NA
+187,Siena College,134,NA,134,NA,25000,/best-colleges/siena-college-2816,,,,NA
+188,St. Norbert College,134,NA,134,NA,19897,/best-colleges/st-norbert-college-3892,,,,NA
+189,Sweet Briar College,134,NA,134,NA,18377,/best-colleges/sweet-briar-college-3742,,,,NA
+190,Illinois College,138,NA,138,NA,27792,/best-colleges/illinois-college-1688,,,,NA
+191,Randolph College,138,NA,138,NA,24330,/best-colleges/randolph-college-3734,,,,NA
+192,Roanoke College,138,NA,138,NA,26374,/best-colleges/roanoke-college-3736,,,,NA
+193,New Jersey Institute of Technology,140,140,NA,NA,25672,/best-colleges/njit-2621,,,,NA
+194,San Diego State University,140,140,NA,NA,12,/best-colleges/sdsu-1151,,,,NA
+195,University of South Florida,140,140,NA,NA,9225,/best-colleges/usf-1537,,,,NA
+196,Washington State University,140,140,NA,NA,9127,/best-colleges/washington-state-3800,,,,NA
+197,Alma College,141,NA,141,NA,19543,/best-colleges/alma-college-2236,,,,NA
+198,Hiram College,141,NA,141,NA,8623,/best-colleges/hiram-college-3049,,,,NA
+199,Susquehanna University,141,NA,141,NA,17965,/best-colleges/susquehanna-university-3369,,,,NA
+200,Wesleyan College,141,NA,141,NA,11731,/best-colleges/wesleyan-college-1600,,,,NA
+201,Oregon State University,145,145,NA,NA,5669,/best-colleges/oregon-state-3210,,,,NA
+202,St. John Fisher College,145,145,NA,NA,6065,/best-colleges/st-john-fisher-college-2821,,,,NA
+203,University of Mississippi,145,145,NA,NA,12656,/best-colleges/university-of-mississippi-2440,,,,NA
+204,Bard College at Simon's Rock,147,NA,147,NA,29853,/best-colleges/simons-rock-9645,,,,NA
+205,Centenary College of Louisiana,147,NA,147,NA,30150,/best-colleges/centenary-louisiana-2003,,,,NA
+206,Franklin College,147,NA,147,NA,22625,/best-colleges/franklin-college-1798,,,,NA
+207,Houghton College,147,NA,147,NA,13917,/best-colleges/houghton-college-2734,,,,NA
+208,Lycoming College,147,NA,147,NA,22349,/best-colleges/lycoming-college-3293,,,,NA
+209,Monmouth College,147,NA,147,NA,26987,/best-colleges/monmouth-college-1725,,,,NA
+210,Saint Vincent College,147,NA,147,NA,4491,/best-colleges/saint-vincent-college-3368,,,,NA
+211,Simpson College,147,NA,147,NA,28315,/best-colleges/simpson-college-1887,,,,NA
+212,Westminster College,147,NA,147,NA,38298,/best-colleges/westminster-college-missouri-2523,,,,NA
+213,William Jewell College,147,NA,147,NA,23233,/best-colleges/william-jewell-2524,,,,NA
+214,Adelphi University,151,151,NA,NA,15047,/best-colleges/adelphi-university-2666,,,,NA
+215,Florida Institute of Technology,151,151,NA,NA,15976,/best-colleges/florida-tech-1469,,,,NA
+216,Seattle Pacific University,151,151,NA,NA,13154,/best-colleges/seattle-pacific-university-3788,,,,NA
+217,Oklahoma State University,156,156,NA,NA,5289,/best-colleges/oklahoma-state-3170,,,,NA
+218,Wittenberg University,158,NA,158,NA,28293,/best-colleges/wittenberg-university-3143,,,,NA
+219,Biola University,159,159,NA,NA,8892,/best-colleges/biola-university-1122,,,,NA
+220,University of La Verne,159,159,NA,NA,9134,/best-colleges/la-verne-1216,,,,NA
+221,Guilford College,160,NA,160,NA,20202,/best-colleges/guilford-college-2931,,,,NA
+222,Morehouse College,160,NA,160,NA,31416,/best-colleges/morehouse-college-1582,,,,NA
+223,Warren Wilson College,160,NA,160,NA,19112,/best-colleges/warren-wilson-2979,,,,NA
+224,Carthage College,163,NA,163,NA,23795,/best-colleges/carthage-college-3839,,,,NA
+225,Elmira College,165,NA,165,NA,25845,/best-colleges/elmira-2718,,,,NA
+226,Hartwick College,165,NA,165,NA,31281,/best-colleges/hartwick-college-2729,,,,NA
+227,Moravian College,165,NA,165,NA,16217,/best-colleges/moravian-college-3301,,,,NA
+228,St. John's University,165,165,NA,NA,21401,/best-colleges/st-johns-university-new-york-2823,,,,NA
+229,Covenant College,168,NA,168,NA,14368,/best-colleges/covenant-college-3484,,,,NA
+230,Gordon College,168,NA,168,NA,21110,/best-colleges/gordon-college-2153,,,,NA
+231,Wells College,168,NA,168,NA,18000,/best-colleges/wells-college-2901,,,,NA
+232,University of Central Florida,171,171,NA,NA,1660,/best-colleges/ucf-3954,,,,NA
+233,University of Idaho,171,171,NA,NA,5000,/best-colleges/university-of-idaho-1626,,,,NA
+234,Virginia Commonwealth University,171,171,NA,NA,7913,/best-colleges/vcu-3735,,,,NA
+235,Albright College,173,NA,173,NA,14885,/best-colleges/albright-college-3229,,,,NA
+236,American Jewish University,173,NA,173,NA,9000,/best-colleges/american-jewish-university-2741,,,,NA
+237,Ave Maria University,173,NA,173,NA,9663,/best-colleges/ave-maria-university-39413,,,,NA
+238,Bethany College,173,NA,173,NA,27565,/best-colleges/bethany-college-west-virginia-3808,,,,NA
+239,Bethel College,173,NA,173,NA,35287,/best-colleges/bethel-college-kansas-1905,,,,NA
+240,Bethune-Cookman University,173,NA,173,NA,15970,/best-colleges/bethune-cookman-university-1467,,,,NA
+241,Bloomfield College,173,NA,173,NA,11505,/best-colleges/bloomfield-college-2597,,,,NA
+242,Bridgewater College,173,NA,173,NA,24798,/best-colleges/bridgewater-college-3704,,,,NA
+243,Bryn Athyn College of the New Church,173,NA,173,NA,13177,/best-colleges/bryn-athyn-3228,,,,NA
+244,Dillard University,173,NA,173,NA,14870,/best-colleges/dillard-university-2004,,,,NA
+245,Emmanuel College,173,NA,173,NA,18742,/best-colleges/emmanuel-college--massachusetts-2147,,,,NA
+246,Erskine College,173,NA,173,NA,26700,/best-colleges/erskine-college-3432,,,,NA
+247,Fisk University,173,NA,173,NA,15239,/best-colleges/fisk-3490,,,,NA
+248,Fort Lewis College,173,NA,173,NA,16631,/best-colleges/fort-lewis-college-1353,,,,NA
+249,LaGrange College,173,NA,173,NA,15705,/best-colleges/lagrange-college-1578,,,,NA
+250,Lyon College,173,NA,173,NA,19424,/best-colleges/lyon-college-1088,,,,NA
+251,Marymount Manhattan College,173,NA,173,NA,6046,/best-colleges/marymount-manhattan-2769,,,,NA
+252,The King's College,173,NA,173,NA,19377,/best-colleges/kings-college-new-york-666134,,,,NA
+253,Kent State University,176,176,NA,NA,14612,/best-colleges/kent-state-university-3051,,,,NA
+254,Robert Morris University,176,176,NA,NA,23766,/best-colleges/robert-morris-university-pennsylvania-3359,,,,NA
+255,Texas Tech University,176,176,NA,NA,5132,/best-colleges/texas-tech-university-3644,,,,NA
+256,Union University,176,176,NA,NA,19001,/best-colleges/union-university-3528,,,,NA
+257,University of Hartford,176,176,NA,NA,19851,/best-colleges/university-of-hartford-1422,,,,NA
+258,Edgewood College,181,181,NA,NA,12913,/best-colleges/edgewood-college-3848,,,,NA
+259,Lipscomb University,181,181,NA,NA,8033,/best-colleges/lipscomb-3486,,,,NA
+260,Suffolk University,181,181,NA,NA,9556,/best-colleges/suffolk-university-2218,,,,NA
+261,University of Maine,181,181,NA,NA,5269,/best-colleges/university-of-maine-2053,,,,NA
+262,University of Wyoming,181,181,NA,NA,8236,/best-colleges/university-of-wyoming-3932,,,,NA
+263,Azusa Pacific University,187,187,NA,NA,7939,/best-colleges/azusa-pacific-1117,,,,NA
+264,Pace University,187,187,NA,NA,14749,/best-colleges/pace-university-2791,,,,NA
+265,West Virginia University,187,187,NA,NA,6889,/best-colleges/wvu-3827,,,,NA
+266,Andrews University,192,192,NA,NA,26675,/best-colleges/andrews-university-2238,,,,NA
+267,University of Houston,192,192,NA,NA,1933,/best-colleges/university-of-houston-3652,,,,NA
+268,University of North Dakota,192,192,NA,NA,7096,/best-colleges/university-of-north-dakota-3005,,,,NA
+269,Widener University,192,192,NA,NA,17345,/best-colleges/widener-university-3313,,,,NA
+270,New Mexico State University,198,198,NA,NA,14621,/best-colleges/new-mexico-state-university-2657,,,,NA
+271,Nova Southeastern University,198,198,NA,NA,6414,/best-colleges/nova-1509,,,,NA
+272,Dallas Baptist University,202,202,NA,NA,6280,/best-colleges/dallas-baptist-university-3560,,,,NA
+273,Central Michigan University,207,207,NA,NA,6839,/best-colleges/central-michigan-university-2243,,,,NA
+274,East Carolina University,207,207,NA,NA,20525,/best-colleges/east-carolina-university-2923,,,,NA
+275,Montana State University,207,207,NA,NA,4038,/best-colleges/montana-state-2532,,,,NA
+276,Ashland University,223,223,NA,NA,3524,/best-colleges/ashland-university-3012,,,,NA
+277,Benedictine University,223,223,NA,NA,3413,/best-colleges/benedictine-university-1767,,,,NA
+278,Georgia State University,223,223,NA,NA,2203,/best-colleges/georgia-state-1574,,,,NA
+279,Shenandoah University,223,223,NA,NA,5347,/best-colleges/shenandoah-university-3737,,,,NA
+280,Wayne State University,223,223,NA,NA,13325,/best-colleges/wayne-state-2329,,,,NA

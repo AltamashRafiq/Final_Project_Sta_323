@@ -1,0 +1,431 @@
+"","college_name","national_rank","link","liberal_rank"
+"1","Princeton University",1,"/best-colleges/princeton-university-2627",NA
+"2","Harvard University",2,"/best-colleges/harvard-university-2155",NA
+"3","University of Chicago",3,"/best-colleges/university-of-chicago-1774",NA
+"4","Yale University",3,"/best-colleges/yale-university-1426",NA
+"5","Columbia University",5,"/best-colleges/columbia-university-2707",NA
+"6","Massachusetts Institute of Technology",5,"/best-colleges/mit-2178",NA
+"7","Stanford University",5,"/best-colleges/stanford-1305",NA
+"8","University of Pennsylvania",8,"/best-colleges/university-of-pennsylvania-3378",NA
+"9","Duke University",9,"/best-colleges/duke-university-2920",NA
+"10","California Institute of Technology",10,"/best-colleges/cal-tech-1131",NA
+"11","Dartmouth College",11,"/best-colleges/dartmouth-college-2573",NA
+"12","Johns Hopkins University",11,"/best-colleges/jhu-2077",NA
+"13","Northwestern University",11,"/best-colleges/northwestern-1739",NA
+"14","Brown University",14,"/best-colleges/brown-university-3401",NA
+"15","Cornell University",14,"/best-colleges/cornell-university-2711",NA
+"16","Rice University",14,"/best-colleges/rice-3604",NA
+"17","Vanderbilt University",14,"/best-colleges/vanderbilt-3535",NA
+"18","University of Notre Dame",18,"/best-colleges/notre-dame-1840",NA
+"19","Washington University in St. Louis",18,"/best-colleges/washington-university-st-louis-2520",NA
+"20","Georgetown University",20,"/best-colleges/georgetown-university-1445",NA
+"21","Emory University",21,"/best-colleges/emory-university-1564",NA
+"22","University of California--Berkeley",21,"/best-colleges/uc-berkeley-1312",NA
+"23","University of California--Los Angeles",21,"/best-colleges/ucla-1315",NA
+"24","University of Southern California",21,"/best-colleges/usc-1328",NA
+"25","Carnegie Mellon University",25,"/best-colleges/carnegie-mellon-university-3242",NA
+"26","University of Virginia",25,"/best-colleges/uva-6968",NA
+"27","Wake Forest University",27,"/best-colleges/wake-forest-2978",NA
+"28","University of Michigan--Ann Arbor",28,"/best-colleges/university-of-michigan-9092",NA
+"29","Tufts University",29,"/best-colleges/tufts-university-2219",NA
+"30","New York University",30,"/best-colleges/nyu-2785",NA
+"31","University of North Carolina--Chapel Hill",30,"/best-colleges/unc-2974",NA
+"32","Boston College",32,"/best-colleges/boston-college-2128",NA
+"33","College of William and Mary",32,"/best-colleges/william-and-mary-3705",NA
+"34","Brandeis University",34,"/best-colleges/brandeis-university-2133",NA
+"35","Georgia Institute of Technology",34,"/best-colleges/georgia-tech-1569",NA
+"36","University of Rochester",34,"/best-colleges/university-of-rochester-2894",NA
+"37","Boston University",37,"/best-colleges/boston-university-2130",NA
+"38","Case Western Reserve University",37,"/best-colleges/case-western-reserve-university-3024",NA
+"39","University of California--Santa Barbara",37,"/best-colleges/ucsb-1320",NA
+"40","Northeastern University",40,"/best-colleges/northeastern-university-2199",NA
+"41","Tulane University",40,"/best-colleges/tulane-university-2029",NA
+"42","Rensselaer Polytechnic Institute",42,"/best-colleges/rpi-2803",NA
+"43","University of California--Irvine",42,"/best-colleges/uc-irvine-1314",NA
+"44","University of California--San Diego",42,"/best-colleges/ucsd-1317",NA
+"45","University of Florida",42,"/best-colleges/university-of-florida-1535",NA
+"46","Lehigh University",46,"/best-colleges/lehigh-university-3289",NA
+"47","Pepperdine University",46,"/best-colleges/pepperdine-university-1264",NA
+"48","University of California--Davis",46,"/best-colleges/uc-davis-1313",NA
+"49","University of Miami",46,"/best-colleges/university-of-miami-1536",NA
+"50","University of Wisconsin--Madison",46,"/best-colleges/university-of-wisconsin-3895",NA
+"51","Villanova University",46,"/best-colleges/villanova-3388",NA
+"52","Pennsylvania State University--University Park",52,"/best-colleges/penn-state-6965",NA
+"53","University of Illinois--Urbana-Champaign",52,"/best-colleges/uiuc-1775",NA
+"54","Ohio State University--Columbus",54,"/best-colleges/ohio-state-6883",NA
+"55","University of Georgia",54,"/best-colleges/university-of-georgia-1598",NA
+"56","George Washington University",56,"/best-colleges/gwu-1444",NA
+"57","Purdue University--West Lafayette",56,"/best-colleges/purdue-1825",NA
+"58","University of Connecticut",56,"/best-colleges/uconn-29013",NA
+"59","University of Texas--Austin",56,"/best-colleges/university-of-texas-3658",NA
+"60","University of Washington",56,"/best-colleges/university-of-washington-3798",NA
+"61","Brigham Young University--Provo",61,"/best-colleges/byu-3670",NA
+"62","Fordham University",61,"/best-colleges/fordham-university-2722",NA
+"63","Southern Methodist University",61,"/best-colleges/smu-3613",NA
+"64","Syracuse University",61,"/best-colleges/syracuse-university-2882",NA
+"65","University of Maryland--College Park",61,"/best-colleges/university-of-maryland-2103",NA
+"66","Worcester Polytechnic Institute",61,"/best-colleges/wpi-2233",NA
+"67","Clemson University",67,"/best-colleges/clemson-university-3425",NA
+"68","University of Pittsburgh",68,"/best-colleges/university-of-pittsburgh-3379",NA
+"69","American University",69,"/best-colleges/american-university-1434",NA
+"70","Rutgers University--New Brunswick",69,"/best-colleges/rutgers-new-brunswick-6964",NA
+"71","Stevens Institute of Technology",69,"/best-colleges/stevens-institute-of-technology-2639",NA
+"72","Texas A&M University--College Station",69,"/best-colleges/texas-am-college-station-10366",NA
+"73","University of Minnesota--Twin Cities",69,"/best-colleges/university-of-minnesota-3969",NA
+"74","Virginia Tech",69,"/best-colleges/virginia-tech-3754",NA
+"75","Baylor University",75,"/best-colleges/baylor-university-6967",NA
+"76","Colorado School of Mines",75,"/best-colleges/colorado-school-of-mines-1348",NA
+"77","University of Massachusetts--Amherst",75,"/best-colleges/umass-amherst-2221",NA
+"78","Miami University--Oxford",78,"/best-colleges/miami-university-7104",NA
+"79","Texas Christian University",78,"/best-colleges/tcu-3636",NA
+"80","University of Iowa",78,"/best-colleges/university-of-iowa-1892",NA
+"81","Clark University",81,"/best-colleges/clark-university-massachusetts-2139",NA
+"82","Florida State University",81,"/best-colleges/fsu-1489",NA
+"83","Michigan State University",81,"/best-colleges/michigan-state-2290",NA
+"84","North Carolina State University--Raleigh",81,"/best-colleges/north-carolina-state-raleigh-2972",NA
+"85","University of California--Santa Cruz",81,"/best-colleges/ucsc-1321",NA
+"86","University of Delaware",81,"/best-colleges/university-of-delaware-1431",NA
+"87","Binghamton University--SUNY",87,"/best-colleges/suny-binghamton-2836",NA
+"88","University of Denver",87,"/best-colleges/university-denver-1371",NA
+"89","University of Tulsa",87,"/best-colleges/university-of-tulsa-3185",NA
+"90","Indiana University--Bloomington",90,"/best-colleges/indiana-university-1809",NA
+"91","Marquette University",90,"/best-colleges/marquette-university-3863",NA
+"92","University of Colorado--Boulder",90,"/best-colleges/cu-boulder-1370",NA
+"93","University of San Diego",90,"/best-colleges/university-of-san-diego-10395",NA
+"94","Drexel University",94,"/best-colleges/drexel-university-3256",NA
+"95","Saint Louis University",94,"/best-colleges/st-louis-university-2506",NA
+"96","Yeshiva University",94,"/best-colleges/yeshiva-university-2903",NA
+"97","Rochester Institute of Technology",97,"/best-colleges/rit-2806",NA
+"98","Stony Brook University--SUNY",97,"/best-colleges/stony-brook-suny-2838",NA
+"99","SUNY College of Environmental Science and Forestry",97,"/best-colleges/suny-environmental-science-and-forestry-2851",NA
+"100","University at Buffalo--SUNY",97,"/best-colleges/ub-9554",NA
+"101","University of Oklahoma",97,"/best-colleges/university-of-oklahoma-3184",NA
+"102","University of Vermont",97,"/best-colleges/university-of-vermont-3696",NA
+"103","Auburn University",103,"/best-colleges/auburn-university-1009",NA
+"104","Illinois Institute of Technology",103,"/best-colleges/iit-1691",NA
+"105","Loyola University Chicago",103,"/best-colleges/loyola-chicago-1710",NA
+"106","University of New Hampshire",103,"/best-colleges/university-of-new-hampshire-2589",NA
+"107","University of Oregon",103,"/best-colleges/university-of-oregon-3223",NA
+"108","University of South Carolina",103,"/best-colleges/university-of-south-carolina-3448",NA
+"109","University of Tennessee",103,"/best-colleges/university-of-tennessee-3530",NA
+"110","Howard University",110,"/best-colleges/howard-university-1448",NA
+"111","University of Alabama",110,"/best-colleges/university-of-alabama-1051",NA
+"112","University of San Francisco",110,"/best-colleges/university-san-francisco-1325",NA
+"113","University of the Pacific",110,"/best-colleges/university-of-the-pacific-1329",NA
+"114","University of Utah",110,"/best-colleges/university-of-utah-3675",NA
+"115","Arizona State University--Tempe",115,"/best-colleges/asu-1081",NA
+"116","Iowa State University",115,"/best-colleges/iowa-state-university-1869",NA
+"117","Temple University",115,"/best-colleges/temple-university-3371",NA
+"118","University of Kansas",115,"/best-colleges/ku-1948",NA
+"119","University of St. Thomas",115,"/best-colleges/university-of-st-thomas-minnesota-2345",NA
+"120","The Catholic University of America",120,"/best-colleges/catholic-university-1437",NA
+"121","DePaul University",120,"/best-colleges/depaul-university-1671",NA
+"122","Duquesne University",120,"/best-colleges/duquesne-university-3258",NA
+"123","University of Missouri",120,"/best-colleges/university-of-missouri-2516",NA
+"124","Clarkson University",124,"/best-colleges/clarkson-university-2699",NA
+"125","Colorado State University",124,"/best-colleges/colorado-state-university-1350",NA
+"126","Michigan Technological University",124,"/best-colleges/michigan-tech-2292",NA
+"127","Seton Hall University",124,"/best-colleges/seton-hall-university-new-jersey-2632",NA
+"128","University of Arizona",124,"/best-colleges/university-of-arizona-1083",NA
+"129","University of California--Riverside",124,"/best-colleges/ucr-1316",NA
+"130","University of Dayton",124,"/best-colleges/university-of-dayton-3127",NA
+"131","University of Nebraska--Lincoln",124,"/best-colleges/university-of-nebraska-2565",NA
+"132","Hofstra University",132,"/best-colleges/hofstra-university-2732",NA
+"133","Louisiana State University--Baton Rouge",133,"/best-colleges/lsu-baton-rouge-2010",NA
+"134","Mercer University",133,"/best-colleges/mercer-university-1580",NA
+"135","The New School",133,"/best-colleges/new-school-20662",NA
+"136","Rutgers University--Newark",133,"/best-colleges/rutgers-newark-2631",NA
+"137","University of Arkansas",133,"/best-colleges/university-of-arkansas-1108",NA
+"138","University of Cincinnati",133,"/best-colleges/university-of-cincinnati-3125",NA
+"139","University of Kentucky",133,"/best-colleges/university-of-kentucky-1989",NA
+"140","George Mason University",140,"/best-colleges/gmu-3749",NA
+"141","New Jersey Institute of Technology",140,"/best-colleges/njit-2621",NA
+"142","San Diego State University",140,"/best-colleges/sdsu-1151",NA
+"143","University of South Florida",140,"/best-colleges/usf-1537",NA
+"144","Washington State University",140,"/best-colleges/washington-state-3800",NA
+"145","Kansas State University",145,"/best-colleges/ksu-1928",NA
+"146","Oregon State University",145,"/best-colleges/oregon-state-3210",NA
+"147","St. John Fisher College",145,"/best-colleges/st-john-fisher-college-2821",NA
+"148","University of Illinois--Chicago",145,"/best-colleges/uic-1776",NA
+"149","University of Mississippi",145,"/best-colleges/university-of-mississippi-2440",NA
+"150","University of Texas--Dallas",145,"/best-colleges/university-of-texas-dallas-9741",NA
+"151","Adelphi University",151,"/best-colleges/adelphi-university-2666",NA
+"152","Florida Institute of Technology",151,"/best-colleges/florida-tech-1469",NA
+"153","Ohio University",151,"/best-colleges/ohio-university-3100",NA
+"154","Seattle Pacific University",151,"/best-colleges/seattle-pacific-university-3788",NA
+"155","University at Albany--SUNY",151,"/best-colleges/suny-albany-2835",NA
+"156","Oklahoma State University",156,"/best-colleges/oklahoma-state-3170",NA
+"157","University of Massachusetts--Lowell",156,"/best-colleges/umass-lowell-2161",NA
+"158","University of Rhode Island",156,"/best-colleges/university-of-rhode-island-3414",NA
+"159","Biola University",159,"/best-colleges/biola-university-1122",NA
+"160","Illinois State University",159,"/best-colleges/illinois-state-university-1692",NA
+"161","University of Alabama--Birmingham",159,"/best-colleges/uab-1052",NA
+"162","University of Hawaii--Manoa",159,"/best-colleges/university-of-hawaii-1610",NA
+"163","University of La Verne",159,"/best-colleges/la-verne-1216",NA
+"164","University of Maryland--Baltimore County",159,"/best-colleges/umbc-2105",NA
+"165","Immaculata University",165,"/best-colleges/immaculata-university-3276",NA
+"166","Maryville University of St. Louis",165,"/best-colleges/maryville-saint-louis-2482",NA
+"167","Missouri University of Science & Technology",165,"/best-colleges/missouri-university-science-2517",NA
+"168","St. John's University",165,"/best-colleges/st-johns-university-new-york-2823",NA
+"169","University of California--Merced",165,"/best-colleges/university-of-california-merced-4127",NA
+"170","University of Louisville",165,"/best-colleges/university-of-louisville-1999",NA
+"171","Mississippi State University",171,"/best-colleges/mississippi-state-2423",NA
+"172","Rowan University",171,"/best-colleges/rowan-university-2609",NA
+"173","University of Central Florida",171,"/best-colleges/ucf-3954",NA
+"174","University of Idaho",171,"/best-colleges/university-of-idaho-1626",NA
+"175","Virginia Commonwealth University",171,"/best-colleges/vcu-3735",NA
+"176","Kent State University",176,"/best-colleges/kent-state-university-3051",NA
+"177","Robert Morris University",176,"/best-colleges/robert-morris-university-pennsylvania-3359",NA
+"178","Texas Tech University",176,"/best-colleges/texas-tech-university-3644",NA
+"179","Union University",176,"/best-colleges/union-university-3528",NA
+"180","University of Hartford",176,"/best-colleges/university-of-hartford-1422",NA
+"181","Edgewood College",181,"/best-colleges/edgewood-college-3848",NA
+"182","Lesley University",181,"/best-colleges/lesley-university-2160",NA
+"183","Lipscomb University",181,"/best-colleges/lipscomb-3486",NA
+"184","Suffolk University",181,"/best-colleges/suffolk-university-2218",NA
+"185","University of Maine",181,"/best-colleges/university-of-maine-2053",NA
+"186","University of Wyoming",181,"/best-colleges/university-of-wyoming-3932",NA
+"187","Azusa Pacific University",187,"/best-colleges/azusa-pacific-1117",NA
+"188","Ball State University",187,"/best-colleges/ball-state-1786",NA
+"189","Montclair State University",187,"/best-colleges/montclair-state-university-2617",NA
+"190","Pace University",187,"/best-colleges/pace-university-2791",NA
+"191","West Virginia University",187,"/best-colleges/wvu-3827",NA
+"192","Andrews University",192,"/best-colleges/andrews-university-2238",NA
+"193","Indiana University-Purdue University--Indianapolis",192,"/best-colleges/iupui-1813",NA
+"194","University of Houston",192,"/best-colleges/university-of-houston-3652",NA
+"195","University of New Mexico",192,"/best-colleges/university-of-new-mexico-10313",NA
+"196","University of North Dakota",192,"/best-colleges/university-of-north-dakota-3005",NA
+"197","Widener University",192,"/best-colleges/widener-university-3313",NA
+"198","New Mexico State University",198,"/best-colleges/new-mexico-state-university-2657",NA
+"199","North Dakota State University",198,"/best-colleges/north-dakota-state-9265",NA
+"200","Nova Southeastern University",198,"/best-colleges/nova-1509",NA
+"201","University of North Carolina--Charlotte",198,"/best-colleges/unc-charlotte-2975",NA
+"202","Bowling Green State University",202,"/best-colleges/bowling-green-state-university-3018",NA
+"203","California State University--Fullerton",202,"/best-colleges/cal-state-fullerton-1137",NA
+"204","Dallas Baptist University",202,"/best-colleges/dallas-baptist-university-3560",NA
+"205","University of Massachusetts--Boston",202,"/best-colleges/umass-boston-2222",NA
+"206","University of Nevada--Reno",202,"/best-colleges/university-of-nevada-2568",NA
+"207","Central Michigan University",207,"/best-colleges/central-michigan-university-2243",NA
+"208","East Carolina University",207,"/best-colleges/east-carolina-university-2923",NA
+"209","Florida A&M University",207,"/best-colleges/famu-1480",NA
+"210","Montana State University",207,"/best-colleges/montana-state-2532",NA
+"211","University of Alaska--Fairbanks",207,"/best-colleges/alaska-fairbanks-1063",NA
+"212","University of Colorado--Denver",207,"/best-colleges/university-of-colorado-denver-6740",NA
+"213","University of Massachusetts--Dartmouth",207,"/best-colleges/umass-dartmouth-2210",NA
+"214","University of Montana",207,"/best-colleges/university-of-montana-2536",NA
+"215","Western Michigan University",207,"/best-colleges/western-michigan-university-2330",NA
+"216","Florida International University",216,"/best-colleges/fiu-9635",NA
+"217","Louisiana Tech University",216,"/best-colleges/la-tech-2008",NA
+"218","South Dakota State University",216,"/best-colleges/south-dakota-state-3471",NA
+"219","Southern Illinois University--Carbondale",216,"/best-colleges/southern-illinois-carbondale-1758",NA
+"220","University of Alabama--Huntsville",216,"/best-colleges/uah-1055",NA
+"221","University of Missouri--Kansas City",216,"/best-colleges/umkc-2518",NA
+"222","Utah State University",216,"/best-colleges/utah-state-3677",NA
+"223","Ashland University",223,"/best-colleges/ashland-university-3012",NA
+"224","Benedictine University",223,"/best-colleges/benedictine-university-1767",NA
+"225","California State University--Fresno",223,"/best-colleges/csu-fresno-1147",NA
+"226","Gardner-Webb University",223,"/best-colleges/gardner-webb-2929",NA
+"227","Georgia State University",223,"/best-colleges/georgia-state-1574",NA
+"228","Shenandoah University",223,"/best-colleges/shenandoah-university-3737",NA
+"229","University of South Dakota",223,"/best-colleges/university-of-south-dakota-10300",NA
+"230","Wayne State University",223,"/best-colleges/wayne-state-2329",NA
+"231","Williams College",NA,"/best-colleges/williams-college-2229",1
+"232","Amherst College",NA,"/best-colleges/amherst-college-2115",2
+"233","Bowdoin College",NA,"/best-colleges/bowdoin-college-2038",3
+"234","Swarthmore College",NA,"/best-colleges/swarthmore-college-3370",3
+"235","Wellesley College",NA,"/best-colleges/wellesley-college-2224",3
+"236","Middlebury College",NA,"/best-colleges/middlebury-college-3691",6
+"237","Pomona College",NA,"/best-colleges/pomona-college-1173",6
+"238","Carleton College",NA,"/best-colleges/carleton-college-2340",8
+"239","Claremont McKenna College",NA,"/best-colleges/claremont-mckenna-college-1170",8
+"240","Davidson College",NA,"/best-colleges/davidson-college-2918",10
+"241","Washington and Lee University",NA,"/best-colleges/washington-and-lee-3768",10
+"242","Colby College",NA,"/best-colleges/colby-college-2039",12
+"243","Colgate University",NA,"/best-colleges/colgate-university-2701",12
+"244","Harvey Mudd College",NA,"/best-colleges/harvey-mudd-college-1171",12
+"245","Smith College",NA,"/best-colleges/smith-college-2209",12
+"246","United States Military Academy",NA,"/best-colleges/west-point-2893",12
+"247","Vassar College",NA,"/best-colleges/vassar-college-2895",12
+"248","Grinnell College",NA,"/best-colleges/grinnell-college-1868",18
+"249","Hamilton College",NA,"/best-colleges/hamilton-college-2728",18
+"250","Haverford College",NA,"/best-colleges/haverford-college-3274",18
+"251","United States Naval Academy",NA,"/best-colleges/naval-academy-2101",21
+"252","Wesleyan University",NA,"/best-colleges/wesleyan-university-1424",21
+"253","Bates College",NA,"/best-colleges/bates-college-2036",23
+"254","Colorado College",NA,"/best-colleges/colorado-college-1347",23
+"255","University of Richmond",NA,"/best-colleges/university-of-richmond-3744",23
+"256","Barnard College",NA,"/best-colleges/barnard-college-2708",26
+"257","Kenyon College",NA,"/best-colleges/kenyon-college-3065",26
+"258","Macalester College",NA,"/best-colleges/macalester-college-2358",26
+"259","Oberlin College",NA,"/best-colleges/oberlin-college-3086",26
+"260","Scripps College",NA,"/best-colleges/scripps-college-1174",26
+"261","United States Air Force Academy",NA,"/best-colleges/air-force-academy-1369",26
+"262","Bryn Mawr College",NA,"/best-colleges/bryn-mawr-college-3237",32
+"263","Bucknell University",NA,"/best-colleges/bucknell-university-3238",33
+"264","College of the Holy Cross",NA,"/best-colleges/holy-cross-2141",33
+"265","Pitzer College",NA,"/best-colleges/pitzer-college-1172",33
+"266","Lafayette College",NA,"/best-colleges/lafayette-college-3284",36
+"267","Mount Holyoke College",NA,"/best-colleges/mount-holyoke-college-2192",36
+"268","Union College",NA,"/best-colleges/union-college-new-york-2889",36
+"269","Franklin and Marshall College",NA,"/best-colleges/franklin-and-marshall-college-3265",39
+"270","Soka University of America",NA,"/best-colleges/soka-university-of-america-38144",39
+"271","Sewanee--University of the South",NA,"/best-colleges/sewanee-3534",41
+"272","Skidmore College",NA,"/best-colleges/skidmore-college-2814",41
+"273","Whitman College",NA,"/best-colleges/whitman-college-3803",41
+"274","Occidental College",NA,"/best-colleges/occidental-college-1249",44
+"275","Trinity College",NA,"/best-colleges/trinity-college-1414",44
+"276","Bard College",NA,"/best-colleges/bard-college-2671",46
+"277","Centre College",NA,"/best-colleges/centre-college-1961",46
+"278","Connecticut College",NA,"/best-colleges/connecticut-college-1379",46
+"279","Denison University",NA,"/best-colleges/denison-university-3042",46
+"280","Gettysburg College",NA,"/best-colleges/gettysburg-college-3268",46
+"281","Dickinson College",NA,"/best-colleges/dickinson-college-3253",51
+"282","Rhodes College",NA,"/best-colleges/rhodes-college-3519",51
+"283","DePauw University",NA,"/best-colleges/depauw-university-1792",53
+"284","Furman University",NA,"/best-colleges/furman-university-3434",53
+"285","Sarah Lawrence College",NA,"/best-colleges/sarah-lawrence-2813",53
+"286","St. John's College",NA,"/best-colleges/st-johns-college-maryland-2092",53
+"287","St. Olaf College",NA,"/best-colleges/st-olaf-college-2382",57
+"288","Lawrence University",NA,"/best-colleges/lawrence-university-3856",58
+"289","St. Lawrence University",NA,"/best-colleges/st-lawrence-university-2829",58
+"290","Thomas Aquinas College",NA,"/best-colleges/thomas-aquinas-college-10448",58
+"291","Agnes Scott College",NA,"/best-colleges/agnes-scott-college-1542",61
+"292","Spelman College",NA,"/best-colleges/spelman-college-1594",61
+"293","College of Wooster",NA,"/best-colleges/college-of-wooster-3037",63
+"294","Wheaton College",NA,"/best-colleges/wheaton-college-illinois-1781",63
+"295","Hobart and William Smith Colleges",NA,"/best-colleges/hobart-and-william-2731",65
+"296","Virginia Military Institute",NA,"/best-colleges/vmi-3753",65
+"297","Wabash College",NA,"/best-colleges/wabash-college-1844",65
+"298","Berea College",NA,"/best-colleges/berea-college-1955",68
+"299","Earlham College",NA,"/best-colleges/earlham-college-1793",68
+"300","University of Puget Sound",NA,"/best-colleges/university-of-puget-sound-3797",68
+"301","Hillsdale College",NA,"/best-colleges/hillsdale-college-2272",71
+"302","Illinois Wesleyan University",NA,"/best-colleges/illinois-wesleyan-university-1696",71
+"303","Knox College",NA,"/best-colleges/knox-college-1704",71
+"304","Muhlenberg College",NA,"/best-colleges/muhlenberg-college-3304",71
+"305","Wofford College",NA,"/best-colleges/wofford-college-3457",71
+"306","Beloit College",NA,"/best-colleges/beloit-college-3835",76
+"307","Hendrix College",NA,"/best-colleges/hendrix-college-1099",76
+"308","Kalamazoo College",NA,"/best-colleges/kalamazoo-college-2275",76
+"309","Lewis & Clark College",NA,"/best-colleges/lewis-and-clark-3197",76
+"310","St. John's College",NA,"/best-colleges/st-johns-college-new-mexico-2093",76
+"311","Wheaton College",NA,"/best-colleges/wheaton-college-massachusetts-2227",76
+"312","Allegheny College",NA,"/best-colleges/allegheny-college-3230",82
+"313","Reed College",NA,"/best-colleges/reed-college-3217",82
+"314","Willamette University",NA,"/best-colleges/willamette-3227",82
+"315","Gustavus Adolphus College",NA,"/best-colleges/gustavus-college-2353",85
+"316","St. John's University",NA,"/best-colleges/st-johns-university-minnesota-2379",85
+"317","Bennington College",NA,"/best-colleges/bennington-college-3682",87
+"318","College of St. Benedict",NA,"/best-colleges/college-of-st-benedict-2341",87
+"319","Cornell College",NA,"/best-colleges/cornell-college-1856",87
+"320","Luther College",NA,"/best-colleges/luther-college-1874",87
+"321","Millsaps College",NA,"/best-colleges/millsaps-college-2414",87
+"322","Transylvania University",NA,"/best-colleges/transylvania-university-1987",87
+"323","Austin College",NA,"/best-colleges/austin-college-3543",93
+"324","College of the Atlantic",NA,"/best-colleges/college-of-the-atlantic-11385",93
+"325","Ursinus College",NA,"/best-colleges/ursinus-3385",93
+"326","Hampden-Sydney College",NA,"/best-colleges/hampden-sydney-3713",96
+"327","Southwestern University",NA,"/best-colleges/southwestern-university-3620",96
+"328","St. Mary's College of Maryland",NA,"/best-colleges/st-marys-college-2095",96
+"329","Washington College",NA,"/best-colleges/washington-college-maryland-2108",96
+"330","Westmont College",NA,"/best-colleges/westmont-college-1341",96
+"331","Augustana College",NA,"/best-colleges/augustana-college-1633",101
+"332","Lake Forest College",NA,"/best-colleges/lake-forest-college-1706",101
+"333","New College of Florida",NA,"/best-colleges/new-college-of-florida-153704",101
+"334","Ohio Wesleyan University",NA,"/best-colleges/ohio-wesleyan-3109",101
+"335","St. Mary's College",NA,"/best-colleges/st-marys-indiana-1836",101
+"336","Hope College",NA,"/best-colleges/hope-college-2273",106
+"337","Juniata College",NA,"/best-colleges/juniata-college-3279",106
+"338","St. Anselm College",NA,"/best-colleges/st-anselm-college-2587",106
+"339","St. Michael's College",NA,"/best-colleges/st-michaels-college-3694",106
+"340","Washington and Jefferson College",NA,"/best-colleges/washington-and-jefferson-college-3389",106
+"341","Stonehill College",NA,"/best-colleges/stonehill-college-2217",111
+"342","Drew University",NA,"/best-colleges/drew-university-2603",112
+"343","Goucher College",NA,"/best-colleges/goucher-college-2073",112
+"344","Hanover College",NA,"/best-colleges/hanover-college-1801",112
+"345","Hollins University",NA,"/best-colleges/hollins-university-3715",112
+"346","Principia College",NA,"/best-colleges/principia-college-1744",112
+"347","Concordia College--Moorhead",NA,"/best-colleges/concordia-college-2346",117
+"348","Elizabethtown College",NA,"/best-colleges/elizabethtown-college-3262",117
+"349","Linfield College",NA,"/best-colleges/linfield-college-3198",117
+"350","Marlboro College",NA,"/best-colleges/marlboro-college-3690",117
+"351","Ripon College",NA,"/best-colleges/ripon-college-3884",117
+"352","Salem College",NA,"/best-colleges/salem-college-2960",117
+"353","Birmingham-Southern College",NA,"/best-colleges/birmingham-southern-1012",123
+"354","Coe College",NA,"/best-colleges/coe-college-1854",123
+"355","Presbyterian College",NA,"/best-colleges/presbyterian-college-3445",123
+"356","Grove City College",NA,"/best-colleges/grove-city-college-3269",126
+"357","Randolph-Macon College",NA,"/best-colleges/randolph-macon-college-3733",126
+"358","Albion College",NA,"/best-colleges/albion-college-2235",128
+"359","Central College",NA,"/best-colleges/central-college-pella-1850",128
+"360","Eckerd College",NA,"/best-colleges/eckerd-college-1487",128
+"361","Wartburg College",NA,"/best-colleges/wartburg-college-1896",128
+"362","Westminster College",NA,"/best-colleges/westminster-college-pennsylvania-3392",128
+"363","Whittier College",NA,"/best-colleges/whittier-college-1342",128
+"364","McDaniel College",NA,"/best-colleges/mcdaniel-college-2109",134
+"365","Siena College",NA,"/best-colleges/siena-college-2816",134
+"366","St. Norbert College",NA,"/best-colleges/st-norbert-college-3892",134
+"367","Sweet Briar College",NA,"/best-colleges/sweet-briar-college-3742",134
+"368","Illinois College",NA,"/best-colleges/illinois-college-1688",138
+"369","Randolph College",NA,"/best-colleges/randolph-college-3734",138
+"370","Roanoke College",NA,"/best-colleges/roanoke-college-3736",138
+"371","Alma College",NA,"/best-colleges/alma-college-2236",141
+"372","Hiram College",NA,"/best-colleges/hiram-college-3049",141
+"373","Susquehanna University",NA,"/best-colleges/susquehanna-university-3369",141
+"374","University of Minnesota--Morris",NA,"/best-colleges/minnesota-morris-2389",141
+"375","University of North Carolina--Asheville",NA,"/best-colleges/unc-asheville-2907",141
+"376","Wesleyan College",NA,"/best-colleges/wesleyan-college-1600",141
+"377","Bard College at Simon's Rock",NA,"/best-colleges/simons-rock-9645",147
+"378","Centenary College of Louisiana",NA,"/best-colleges/centenary-louisiana-2003",147
+"379","Franklin College",NA,"/best-colleges/franklin-college-1798",147
+"380","Georgetown College",NA,"/best-colleges/georgetown-college-1964",147
+"381","Houghton College",NA,"/best-colleges/houghton-college-2734",147
+"382","Lycoming College",NA,"/best-colleges/lycoming-college-3293",147
+"383","Monmouth College",NA,"/best-colleges/monmouth-college-1725",147
+"384","Saint Vincent College",NA,"/best-colleges/saint-vincent-college-3368",147
+"385","Simpson College",NA,"/best-colleges/simpson-college-1887",147
+"386","Westminster College",NA,"/best-colleges/westminster-college-missouri-2523",147
+"387","William Jewell College",NA,"/best-colleges/william-jewell-2524",147
+"388","Doane University",NA,"/best-colleges/doane-university-2544",158
+"389","Wittenberg University",NA,"/best-colleges/wittenberg-university-3143",158
+"390","Guilford College",NA,"/best-colleges/guilford-college-2931",160
+"391","Morehouse College",NA,"/best-colleges/morehouse-college-1582",160
+"392","Warren Wilson College",NA,"/best-colleges/warren-wilson-2979",160
+"393","Carthage College",NA,"/best-colleges/carthage-college-3839",163
+"394","Meredith College",NA,"/best-colleges/meredith-college-2945",163
+"395","Elmira College",NA,"/best-colleges/elmira-2718",165
+"396","Hartwick College",NA,"/best-colleges/hartwick-college-2729",165
+"397","Moravian College",NA,"/best-colleges/moravian-college-3301",165
+"398","College of Idaho",NA,"/best-colleges/college-of-idaho-1617",168
+"399","Covenant College",NA,"/best-colleges/covenant-college-3484",168
+"400","Emory and Henry College",NA,"/best-colleges/emory-and-henry-college-3709",168
+"401","Gordon College",NA,"/best-colleges/gordon-college-2153",168
+"402","Wells College",NA,"/best-colleges/wells-college-2901",168
+"403","Albright College",NA,"/best-colleges/albright-college-3229",173
+"404","Allen University",NA,"/best-colleges/allen-university-3417",173
+"405","American Jewish University",NA,"/best-colleges/american-jewish-university-2741",173
+"406","Ave Maria University",NA,"/best-colleges/ave-maria-university-39413",173
+"407","Bethany College",NA,"/best-colleges/bethany-college-west-virginia-3808",173
+"408","Bethany Lutheran College",NA,"/best-colleges/bethany-lutheran-2337",173
+"409","Bethel College",NA,"/best-colleges/bethel-college-kansas-1905",173
+"410","Bethune-Cookman University",NA,"/best-colleges/bethune-cookman-university-1467",173
+"411","Bloomfield College",NA,"/best-colleges/bloomfield-college-2597",173
+"412","Bridgewater College",NA,"/best-colleges/bridgewater-college-3704",173
+"413","Bryn Athyn College of the New Church",NA,"/best-colleges/bryn-athyn-3228",173
+"414","Cheyney University of Pennsylvania",NA,"/best-colleges/cheyney-university-3317",173
+"415","Claflin University",NA,"/best-colleges/claflin-university-3424",173
+"416","Davis and Elkins College",NA,"/best-colleges/davis-and-elkins-college-3811",173
+"417","Dillard University",NA,"/best-colleges/dillard-university-2004",173
+"418","East-West University",NA,"/best-colleges/east-west-chicago-university-21686",173
+"419","Emmanuel College",NA,"/best-colleges/emmanuel-college--massachusetts-2147",173
+"420","Erskine College",NA,"/best-colleges/erskine-college-3432",173
+"421","Fisk University",NA,"/best-colleges/fisk-3490",173
+"422","Fort Lewis College",NA,"/best-colleges/fort-lewis-college-1353",173
+"423","Holy Cross College",NA,"/best-colleges/holy-cross-college-7263",173
+"424","Johnson C. Smith University",NA,"/best-colleges/johnson-c-smith-2936",173
+"425","Judson College",NA,"/best-colleges/judson-college-1023",173
+"426","The King's College",NA,"/best-colleges/kings-college-new-york-666134",173
+"427","LaGrange College",NA,"/best-colleges/lagrange-college-1578",173
+"428","Louisiana State University--Alexandria",NA,"/best-colleges/lsua-2011",173
+"429","Lyon College",NA,"/best-colleges/lyon-college-1088",173
+"430","Marymount Manhattan College",NA,"/best-colleges/marymount-manhattan-2769",173
